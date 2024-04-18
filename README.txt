@@ -1,4 +1,7 @@
-Future Work
+# My portfolio
+This is my Data Analytics Portfolio
+
+# Future Work
 I plan to expand this portfolio with additional projects and explore new techniques and datasets. Stay tuned for updates!
 
 # Contact Information
