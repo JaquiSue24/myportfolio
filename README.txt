@@ -1,29 +1,24 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Future Work
+I plan to expand this portfolio with additional projects and explore new techniques and datasets. Stay tuned for updates!
 
+# Contact Information
+If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me:
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Email: jonnalyn.sule@gmail.com
+LinkedIn: www.linkedin.com/in/jonnalyn-sule
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+# License
+Creative Commons Attribution 
 
-(* = Not included)
+# Acknowledgments
+I'd like to acknowledge the following resources and communities for their valuable insights, tutorials, and open-source contributions that have inspired and supported my work.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+# Credits
+	Web Template: 
+		HTML5 Up (https://html5up.net/)
 
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
+	Banner Image:
+		https://venturebeat.com/datadecisionmakers/perfecting-the-art-of-data-storytelling/
 
 	Icons:
 		Font Awesome (fontawesome.io)
