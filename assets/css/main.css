@@ -2229,8 +2229,9 @@ input, select, textarea {
 		ul li {
 			padding-left: 0.5em;
 		}
+
 		#two > div > ul > li > p {
-			font-size: 10px;
+			font-size: 2px;
 		}
 
 		ul.alt {
