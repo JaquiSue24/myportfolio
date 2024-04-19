@@ -2230,8 +2230,8 @@ input, select, textarea {
 			padding-left: 0.5em;
 		}
 
-		#two > div > ul > li.icon.solid.fa-code > p {
-			font-size: 0.5em;
+		#two > div > ul > li > p {
+			font-size: 1.5em;
 		}
 
 		ul.alt {
