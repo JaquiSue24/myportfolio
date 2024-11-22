@@ -1,8 +1,8 @@
 # My portfolio
-This is my Data Analytics Portfolio
+This is my Portfolio. Here you'll learned about me and what do I do.
 
 # Future Work
-I plan to expand this portfolio with additional projects and explore new techniques and datasets. Stay tuned for updates!
+I plan to expand this portfolio with additional projects and explore new methods and techniques. Stay tuned for updates!
 
 # Contact Information
 If you have any questions, feedback, or collaboration opportunities, feel free to reach out to me:
